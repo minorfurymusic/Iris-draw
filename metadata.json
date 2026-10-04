@@ -1,0 +1,6 @@
+{
+  "name": "Ateliê da Iris - Aprenda a Desenhar",
+  "description": "Aplicativo educativo e lúdico de desenho realista passo a passo para crianças, com aulas didáticas do básico ao avançado, lousa de desenho mágica e galeria personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
